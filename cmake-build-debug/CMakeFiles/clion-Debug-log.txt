@@ -1,0 +1,6 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/jamielafarr/cpp/bank-app -B /Users/jamielafarr/cpp/bank-app/cmake-build-debug
+CMake Error at CMakeLists.txt:1 (cmake_minimum_required):
+  CMake 3.26.4 or higher is required.  You are running version 3.25.2
+
+
+-- Configuring incomplete, errors occurred!
